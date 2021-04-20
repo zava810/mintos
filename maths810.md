@@ -1,3 +1,4 @@
+pliiz vieu this prozect site in **firefoks** only vith custom DeliusUnicase **[u5c.ttf/u5cdot.ttf][unicasefonts]**.
 # maths810 : 8+8 = 10 = vnti = 4*4 
 ![mni_810][no2550]
 > zn se zinc , zr se zirconium but no j q in mendeelev periodic table in chemistry.
@@ -13,8 +14,8 @@ so let us move ~~f j q x w~~ phrom **zinglish/zemistry** to **maths810** Az :
 > 2 Thumbs phur biometric sign , shou , svitch
 > 8 phingers to type & count as :
 >> 8+8 = 10 = vnti = 4*4 
+
 ![][heks40imez]
-pliiz vieu this prozect site in **firefoks** only vith custom DeliusUnicase **[u5c.ttf/u5cdot.ttf][unicasefonts]**.
 
 This os vill be ekstension to linuks mint.
 
