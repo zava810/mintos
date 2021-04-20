@@ -13,7 +13,7 @@ so let us move ~~f j q x w~~ phrom **zinglish/zemistry** to **maths810** Az :
 > 2 Thumbs phur biometric sign , shou , svitch
 > 8 phingers to type & count as :
 >> 8+8 = 10 = vnti = 4*4 
-
+![][heks40imez]
 pliiz vieu this prozect site in **firefoks** only vith custom DeliusUnicase **[u5c.ttf/u5cdot.ttf][unicasefonts]**.
 
 This os vill be ekstension to linuks mint.
@@ -40,6 +40,7 @@ above zinglish keyboard has symbols phur :
 
 [zava810]: http://github.com/zava810/zava810
 [phoniksimez]: imez/png/phoniks.png
+[heks40imez]: imez/png/heks_40.png
 [unicasefonts]: https://github.com/Font77/unicase_phonts
 [imezkibord]: imez/zpg/kibord.ascii810.jpg
 [no2550]: imez/zpg/no2550.jpg
