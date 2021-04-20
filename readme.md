@@ -29,6 +29,7 @@ try hpop_u5.apk u5c.ttf hksuletr.apk at [zava810 github repository][zava810]
 above zinglish keyboard has symbols phur :
 
 1. phonics / phonetics : vovels / sopht consonants / hard consonants
+![][phoniksimez]
 2. heks810 arithmetic numerals vith 8+8=10=vnti glyphs Az shoun in 1st green rou in keyboard.
 3. programming symbols
 4. punctuation symbols
@@ -36,5 +37,9 @@ above zinglish keyboard has symbols phur :
 
 
 [zava810]: http://github.com/zava810/zava810
+<<<<<<< HEAD
+[phoniksimez]: imez/png/phoniks.png
+=======
+>>>>>>> 43e5776638622f82ae02d26d5e7e7c56d87cc77a
 [unicasefonts]: https://github.com/Font77/unicase_phonts
 [imezkibord]: imez/zpg/kibord.ascii810.jpg
