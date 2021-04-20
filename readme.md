@@ -37,9 +37,6 @@ above zinglish keyboard has symbols phur :
 
 
 [zava810]: http://github.com/zava810/zava810
-<<<<<<< HEAD
 [phoniksimez]: imez/png/phoniks.png
-=======
->>>>>>> 43e5776638622f82ae02d26d5e7e7c56d87cc77a
 [unicasefonts]: https://github.com/Font77/unicase_phonts
 [imezkibord]: imez/zpg/kibord.ascii810.jpg
