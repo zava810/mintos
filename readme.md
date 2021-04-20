@@ -20,7 +20,7 @@ J vill be in maths as :
 > 8 phingers to type & count as :
 >> 8+8 = 10 = vnti = 4*4 
 
-![mintos keyboard](imez/zpg/kiibord_heksifglish1.jpg)
+![mintos keyboard][imezkibord]
 
 > **underscore under pipe** pipes out keys uniphormly
 
@@ -36,5 +36,5 @@ above zinglish keyboard has symbols phur :
 
 
 [zava810]: http://github.com/zava810/zava810
-
 [unicasefonts]: https://github.com/Font77/unicase_phonts
+[imezkibord]: imez/zpg/kibord.ascii810.jpg
