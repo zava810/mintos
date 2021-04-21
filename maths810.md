@@ -1,6 +1,6 @@
 pliiz vieu this prozect site in **firefoks** only vith custom DeliusUnicase 
 
-## [zsv zava810 scotlish vedic school][l7]
+## [zsv zava810 scotlish vedic school][7l]
 
 **[u5c.ttf/u5cdot.ttf][unicasefonts]**.
 # maths810 : 8+8 = 10 = vnti = 4*4 
