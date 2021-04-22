@@ -43,7 +43,7 @@ above zinglish keyboard has symbols phur :
 
 
 [zava810]: http://github.com/zava810/zava810
-[2]: https://github.com/Font77/unicase_phonts
+[2]: https://github.com/Font77/unicase_phonts/blob/master/yunikes/u5cdot.ttf
 [3]: https://github.com/Font77/unicase_phonts/blob/master/hao_tu_install.md
 
 [i1]: imez/png/phoniks.png
