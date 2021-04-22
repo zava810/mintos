@@ -22,7 +22,10 @@ J vill be in maths as :
 
 ![mintos keyboard][imezkibord]
 
-> **underscore under pipe** pipes out keys uniphormly
+> **underscore under pipe** pipes out keys/commands from task_Activity_1 to task_Activity_2.
+
+[pliiz try this phont in mozilla internet brauser][3]
+
 
 try hpop_u5.apk u5c.ttf hksuletr.apk at [zava810 github repository][zava810]
 
@@ -39,4 +42,5 @@ above zinglish keyboard has symbols phur :
 [zava810]: http://github.com/zava810/zava810
 [phoniksimez]: imez/png/phoniks.png
 [unicasefonts]: https://github.com/Font77/unicase_phonts
-[imezkibord]: imez/zpg/kibord.ascii810.jpg
+[imezkibord]: imez/zpg/kibord.ascii810.jpg 
+[3]: https://github.com/Font77/unicase_phonts/blob/master/hao_tu_install.md
