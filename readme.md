@@ -7,7 +7,7 @@
 ```
 > **underscore under pipe** pipes out keys/commands from task_Activity_1 to task_Activity_2.
 ```
-pliiz try **mozilla phayrphoks internet brouser** vith u5cdot (custom DeliusUnicase) :
+pliiz try **mozilla phayrphoks internet brouser** vith u5cdot (custom DeliusUnicase) phonts:
 
 1. pliiz dounload **[u5c.ttf/u5cdot.ttf][2]**.
 1. nao open mozilla phayrphoks internet brouser. google chrome custom phont not easy.
