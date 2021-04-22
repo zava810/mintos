@@ -1,8 +1,10 @@
 # mintos = minu tree os 
-![][i1]
-( starting point : linuks mint vith unicase same height font u5c.ttf ( phrom DeliusUnicase )
-
-pliiz vieu this prozect site in **mozilla phayrphoks internet brouser** vith custom DeliusUnicase :
+![][i2]
+( starting point : linuks mint vith unicase same height font u5c.ttf ( phrom [DeliusUnicase][el1] )
+```
+> **underscore under pipe** pipes out keys/commands from task_Activity_1 to task_Activity_2.
+```
+pliiz try **mozilla phayrphoks internet brouser** vith u5cdot (custom DeliusUnicase) :
 
 1. pliiz dounload **[u5c.ttf/u5cdot.ttf][2]**.
 1. nao open mozilla phayrphoks internet brouser. google chrome custom phont not easy.
@@ -25,13 +27,6 @@ J vill be in maths as :
 > 8 phingers to type & count as :
 >> 8+8 = 10 = vnti = 4*4 
 
-![mintos keyboard][imezkibord]
-
-> **underscore under pipe** pipes out keys/commands from task_Activity_1 to task_Activity_2.
-
-[pliiz try this phont in mozilla internet brauser][3]
-
-
 try hpop_u5.apk u5c.ttf hksuletr.apk at [zava810 github repository][zava810]
 
 above zinglish keyboard has symbols phur :
@@ -45,7 +40,10 @@ above zinglish keyboard has symbols phur :
 
 
 [zava810]: http://github.com/zava810/zava810
-[i1]: imez/png/phoniks.png
 [2]: https://github.com/Font77/unicase_phonts
-[imezkibord]: imez/zpg/kibord.ascii810.jpg 
 [3]: https://github.com/Font77/unicase_phonts/blob/master/hao_tu_install.md
+
+[i1]: imez/png/phoniks.png
+[i2]: imez/zpg/kibord.ascii810.jpg 
+
+[el1]: https://www.fontsquirrel.com/fonts/delius-unicase
