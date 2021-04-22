@@ -1,7 +1,8 @@
 # mintos = minu tree os 
+
+( starting point : linuks mint vith unicase same height font u5c.ttf ( phrom [DeliusUnicase][el1] ) )
 ![][i2]
 
-( starting point : linuks mint vith unicase same height font u5c.ttf ( phrom [DeliusUnicase][el1] )
 
 ```
 > **underscore under pipe** pipes out keys/commands from task_Activity_1 to task_Activity_2.
