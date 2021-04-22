@@ -1,11 +1,15 @@
 # mintos
 mintos = minu tree os ( starting point : linuks mint vith unicase same height font u5c.ttf ( phrom DeliusUnicase )
 
-pliiz vieu this prozect site in **firefoks** only vith custom DeliusUnicase **[u5c.ttf/u5cdot.ttf][unicasefonts]**.
+pliiz vieu this prozect site in **firefoks** only vith custom DeliusUnicase :
+
+1. pliiz dounload **[u5c.ttf/u5cdot.ttf][2]**.
+1. nao open mozilla phayrphoks internet brouser. google chrome custom phont not easy.
+3. install  **above dounloaded [u5c.ttf/u5cdot.ttf][3] in linuks mint & phayrphoks**.
 
 This os vill be ekstension to linuks mint.
 
-in this only unicase same height font [u5c.ttf][unicasefonts] vill be uzed.
+in this only unicase same height font [u5c.ttf][2] vill be uzed.
 
 > zn se zinc , zr se zirconium but no j q in mendeelev periodic table in chemistry.
 
@@ -41,6 +45,6 @@ above zinglish keyboard has symbols phur :
 
 [zava810]: http://github.com/zava810/zava810
 [phoniksimez]: imez/png/phoniks.png
-[unicasefonts]: https://github.com/Font77/unicase_phonts
+[2]: https://github.com/Font77/unicase_phonts
 [imezkibord]: imez/zpg/kibord.ascii810.jpg 
 [3]: https://github.com/Font77/unicase_phonts/blob/master/hao_tu_install.md
