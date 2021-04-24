@@ -38,15 +38,18 @@ above zinglish keyboard has symbols phur :
 1. phonics / phonetics : vovels / sopht consonants / hard consonants
 ![][phoniksimez]
 2. heks810 arithmetic numerals vith 8+8=10=vnti glyphs Az shoun in 1st green rou in keyboard.
+![][heks40imez]
 3. programming symbols
 4. punctuation symbols
 5. arithmetic symbols
 
 
 [zava810]: http://github.com/zava810/zava810
-[phoniksimez]: imez/png/phoniks.png
-[heks40imez]: imez/png/heks_40.png
 [unicasefonts]: https://github.com/Font77/unicase_phonts
-[imezkibord]: imez/zpg/kibord.ascii810.jpg
-[no2550]: imez/zpg/no2550.jpg
+
+[phoniksimez]: http://github.com/zava810/kontent/imez/zpg_png/phoniks.png
+[heks40imez]: http://github.com/zava810/kontent/imez/zpg_png/h40kaunt.jpg
+[imezkibord]: http://github.com/zava810/kontent/imez/zpg_png/kibord.ascii810.jpg
+[no2550]: http://github.com/zava810/kontent/imez/mni810/no2550.jpg
+
 [7l]: https://www.linkedin.com/company/zava810

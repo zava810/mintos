@@ -44,9 +44,9 @@ above zinglish keyboard has symbols phur :
 
 
 [zava810]: http://github.com/zava810/zava810
-[phoniksimez]: imez/png/phoniks.png
-[heks40imez]: imez/png/heks_40.png
+[phoniksimez]: http://github.com/zava810/kontent/imez/zpg_png/phoniks.png
+[heks40imez]: http://github.com/zava810/kontent/imez/zpg_png/h40kaunt.jpg
 [unicasefonts]: https://github.com/Font77/unicase_phonts
-[imezkibord]: imez/zpg/kibord.ascii810.jpg
-[no2550]: imez/zpg/no2550.jpg
+[imezkibord]: http://github.com/zava810/kontent/imez/zpg_png/kibord.ascii810.jpg
+[no2550]: http://github.com/zava810/kontent/imez/mni810/no2550.jpg
 [7l]: https://www.linkedin.com/company/zava810
